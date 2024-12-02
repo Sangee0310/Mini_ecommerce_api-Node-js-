@@ -1,4 +1,6 @@
 E-Commerce Backend API
+
+
 A robust backend API for e-commerce platforms, built using Node.js, MongoDB, and Thunder Client for testing. This API provides key functionalities for managing products, creating orders, and updating stock dynamically during order creation.
 
 Features
